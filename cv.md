@@ -9,5 +9,5 @@
 2. I am responsible
 3. In any case, everything that is not done is for the better...
 
-
+.
  *Thanks...*
