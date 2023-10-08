@@ -1,5 +1,5 @@
  # Maksim Parebko 
- ![My ava...](https://github.com/Parebko/rsschool-cv/gh-pages/Max.jpg)
+ ![My ava...](https://github.com/Parebko/rsschool-cv/blob/gh-pages/Max.jpg)
  ## My contact: 
  * +375295079883
  * Parebko@mail.ru 
